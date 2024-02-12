@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gautamali/Yoga-AI-Website-main/static/css/main.28f11da2.css",
+    "main.js": "/Gautamali/Yoga-AI-Website-main/static/js/main.67be8d1f.js",
+    "static/js/592.256642b7.chunk.js": "/Gautamali/Yoga-AI-Website-main/static/js/592.256642b7.chunk.js",
+    "static/media/count.wav": "/Gautamali/Yoga-AI-Website-main/static/media/count.f89c5fa1380233c226e7.wav",
+    "static/media/yoga_pose.png": "/Gautamali/Yoga-AI-Website-main/static/media/yoga_pose.822bc3136b445bde25c7.png",
+    "static/media/tree.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/tree.04893f79edff7930610f.jpg",
+    "static/media/shoulderstand.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/shoulderstand.784f28f46d8e361149eb.jpg",
+    "static/media/traingle.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/traingle.e09c1851d19b5d07cbd2.jpg",
+    "static/media/warrior.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/warrior.ad323405cbcf62e55010.jpg",
+    "static/media/cobra.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/cobra.fcbccbd9e4833712eb62.jpg",
+    "static/media/dog.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/dog.551aeeb36d512e6eabdf.jpg",
+    "static/media/chair.jpg": "/Gautamali/Yoga-AI-Website-main/static/media/chair.f10c11b942ffb788fc0d.jpg",
+    "index.html": "/Gautamali/Yoga-AI-Website-main/index.html",
+    "main.28f11da2.css.map": "/Gautamali/Yoga-AI-Website-main/static/css/main.28f11da2.css.map",
+    "main.67be8d1f.js.map": "/Gautamali/Yoga-AI-Website-main/static/js/main.67be8d1f.js.map",
+    "592.256642b7.chunk.js.map": "/Gautamali/Yoga-AI-Website-main/static/js/592.256642b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f11da2.css",
+    "static/js/main.67be8d1f.js"
+  ]
+}
